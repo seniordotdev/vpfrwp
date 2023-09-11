@@ -4,7 +4,7 @@
 
 # Description
 
-## Custom video player for react with plyr.js
+### Custom video player for react with plyr.js
 
 ## Installation
 
