@@ -9,7 +9,7 @@
 ## Installation
 
 ```bash
-npm i custom-video-player-react
+npm i vpfrwp
 ```
 
 # Props
